@@ -1,0 +1,25 @@
+{
+  "name": "sortandfilterdata",
+  "version": "1.0.0",
+  "description": "This is a  Node.js module that take an array or return sorted array or filtered array",
+  "main": "dist/utile.js",
+  "types": "dist/utile.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamdonprince/sortandfilterlibrary.git"
+  },
+  "keywords": [
+    "filterjs",
+    "sortedArray"
+  ],
+  "author": "Prince Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamdonprince/sortandfilterlibrary/issues"
+  },
+  "homepage": "https://github.com/iamdonprince/sortandfilterlibrary#readme"
+}
