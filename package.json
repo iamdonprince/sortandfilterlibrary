@@ -1,5 +1,5 @@
 {
-  "name": "sortandfilterdata",
+  "name": "@princekumrx/pksortfilter",
   "version": "1.0.0",
   "description": "This is a  Node.js module that take an array or return sorted array or filtered array",
   "main": "dist/utile.js",
